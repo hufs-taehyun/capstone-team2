@@ -49,9 +49,22 @@
 
 ## 팀원
 
-| 이름 | 역할 |
-|------|------|
-| (팀원 정보 추가 예정) | |
+| 이름 | 전공 | 학번 | GitHub |
+|------|------|------|--------|
+| 이성준 | 컴퓨터공학부 | 202102467 | [@andrew427dev](https://github.com/andrew427dev) |
+| 구예빈 | 컴퓨터공학과 | 202303475 | [@ebin0319](https://github.com/ebin0319) |
+| 이지연 | 컴퓨터공학부 | 202300396 | [@2ziziy](https://github.com/2ziziy) |
+| 남기욱 | 컴퓨터공학부 | 202101208 | [@namgw1118](https://github.com/namgw1118) |
+| 장태현 | 컴퓨터공학부 | 202102966 | [@hufs-taehyun](https://github.com/hufs-taehyun) |
+| 배진규 | 컴퓨터공학부 | 202001647 | [@tocomboy](https://github.com/tocomboy) |
+
+---
+
+## 멘토
+
+| 이름 | 소속 | 직책 |
+|------|------|------|
+| 김동현 | 브랜치앤바운드 | B2B Product 총괄 |
 
 ---
 
@@ -63,4 +76,4 @@
 
 ## 관련 문서
 
-- [Notion 프로젝트 페이지](https://www.notion.so/Capstone-Team-Project_Team-2-320aebb23ee080e2bb7bced66e01ccb2)
+- [Notion 프로젝트 페이지](https://www.notion.so/Capstone-Team-Project_Team-2-467bb74c147883d9a40f01dee4e7029e)
