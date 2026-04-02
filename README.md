@@ -51,12 +51,12 @@
 
 | 이름 | 전공 | 학번 | GitHub |
 |------|------|------|--------|
-| 이성준 | 컴퓨터공학부 | 202102467 | [@andrew427dev](https://github.com/andrew427dev) |
-| 구예빈 | 컴퓨터공학과 | 202303475 | [@ebin0319](https://github.com/ebin0319) |
-| 이지연 | 컴퓨터공학부 | 202300396 | [@2ziziy](https://github.com/2ziziy) |
-| 남기욱 | 컴퓨터공학부 | 202101208 | [@namgw1118](https://github.com/namgw1118) |
-| 장태현 | 컴퓨터공학부 | 202102966 | [@hufs-taehyun](https://github.com/hufs-taehyun) |
-| 배진규 | 컴퓨터공학부 | 202001647 | [@tocomboy](https://github.com/tocomboy) |
+| 이*준 | 컴퓨터공학부 | 20210**** | [@andrew427dev](https://github.com/andrew427dev) |
+| 구*빈 | 컴퓨터공학과 | 20230**** | [@ebin0319](https://github.com/ebin0319) |
+| 이*연 | 컴퓨터공학부 | 20230**** | [@2ziziy](https://github.com/2ziziy) |
+| 남*욱 | 컴퓨터공학부 | 20210**** | [@namgw1118](https://github.com/namgw1118) |
+| 장*현 | 컴퓨터공학부 | 20210**** | [@hufs-taehyun](https://github.com/hufs-taehyun) |
+| 배*규 | 컴퓨터공학부 | 20200**** | [@tocomboy](https://github.com/tocomboy) |
 
 ---
 
